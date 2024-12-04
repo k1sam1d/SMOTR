@@ -1,0 +1,12 @@
+﻿   Qt/MSBuild: 3.3.1.0
+  Reading Qt configuration (C:/Qt/6.7.0/msvc2019_64/bin/qmake)
+   Qt: 6.7.0
+  uic AntonovCNC.ui
+  rcc AntonovCNC.qrc
+  moc AntonovCNC.h
+   RCC: Warning: No resources in 'E:\workfolders\LearnDEV\AntonovCNC-master2\AntonovCNC.qrc'.
+  AntonovCNC.cpp
+  main.cpp
+  qrc_AntonovCNC.cpp
+  moc_AntonovCNC.cpp
+  AntonovCNC.vcxproj -> E:\workfolders\LearnDEV\AntonovCNC-master2\x64\Debug\AntonovCNC.exe
